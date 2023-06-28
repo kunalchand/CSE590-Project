@@ -1,0 +1,1 @@
+scp -r kchand@metallica.cse.buffalo.edu:/home/csgrad/kchand/cse590_project "C:\Users\Kunal Chand\Desktop\CSE 590 CA\Project\CSE590-Project"
